@@ -2,6 +2,7 @@
 Technologies:2
 java 17
 spring boot 2.7.1
+spring specifiction
 spring jpa data
 mapstruct
 lombok
