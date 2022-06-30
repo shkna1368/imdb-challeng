@@ -1,5 +1,5 @@
-# imdb-challeng
-Technologies:
+# imdb-challeng read data from json and insert to H2
+Technologies:2
 java 17
 spring boot 2.7.1
 spring jpa data
